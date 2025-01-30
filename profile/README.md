@@ -1,9 +1,7 @@
-## Welcome to GitHub repository of the Resilmesh project!
+## resilmesh2
 
-Resilmesh: Situation Aware Enabled Cyber Resilience for Dispersed, Heterogenous Cyber Systems
+This is an invitation-only, supporting repository of the Resilmesh project.
 
-https://resilmesh.eu/
+If you are looking for the official repository, visit the Resilmesh-EU organization on GitHub:
 
-ResilMesh is an Innovation Action project funded by the European Union, dedicated to revolutionizing cybersecurity practices. At its core, ResilMesh endeavors to develop a cutting-edge security orchestration and analytics toolset grounded in cyber situational awareness (CSA). This initiative aims to equip organizations with the capabilities needed for real-time defense of essential business functions in an era marked by dispersed, heterogeneous cyber systems.
-
-
+https://github.com/Resilmesh-EU
